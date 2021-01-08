@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
